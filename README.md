@@ -10,4 +10,4 @@
 ## Code Snipped
 ![1](https://github.com/Tiegertropfen119-0001/Arduino-Thermal-Printer-Programm/blob/main/img/rcode.png)
 
-#Feel free to contact me at tiegertropfen119@xamplex.de
+# Feel free to contact me at tiegertropfen119@xamplex.de
