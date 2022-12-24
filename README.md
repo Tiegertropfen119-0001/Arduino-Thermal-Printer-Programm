@@ -10,4 +10,16 @@
 ## Code Snipped
 ![1](https://github.com/Tiegertropfen119-0001/Arduino-Thermal-Printer-Programm/blob/main/img/rcode.png)
 
+### Infos
+> Programm =>
+> .Net Framework 4.7.2
+> Compiled size 24.576 Bytes
+> Arduino code => 
+> Tested on => Arduino Nano
+> 8780 Bytes of flash written
+> Sketch uses 8780 bytes (28% of Maximum 30720 bytes)
+> Dynamic memory use 593 bytes (28% of Maximum 2048 bytes)
+
+
+
 # Feel free to contact me at tiegertropfen119@xamplex.de
