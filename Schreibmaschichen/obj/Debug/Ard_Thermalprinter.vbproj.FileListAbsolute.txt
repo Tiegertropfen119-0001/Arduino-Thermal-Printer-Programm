@@ -1,0 +1,12 @@
+C:\Users\ianka\source\repos\Schreibmaschichen\Schreibmaschichen\bin\Debug\Ard_Thermalprinter.exe.config
+C:\Users\ianka\source\repos\Schreibmaschichen\Schreibmaschichen\bin\Debug\Ard_Thermalprinter.exe
+C:\Users\ianka\source\repos\Schreibmaschichen\Schreibmaschichen\bin\Debug\Ard_Thermalprinter.pdb
+C:\Users\ianka\source\repos\Schreibmaschichen\Schreibmaschichen\bin\Debug\Ard_Thermalprinter.xml
+C:\Users\ianka\source\repos\Schreibmaschichen\Schreibmaschichen\obj\Debug\Ard_Thermalprinter.Form1.resources
+C:\Users\ianka\source\repos\Schreibmaschichen\Schreibmaschichen\obj\Debug\Ard_Thermalprinter.Resources.resources
+C:\Users\ianka\source\repos\Schreibmaschichen\Schreibmaschichen\obj\Debug\Ard_Thermalprinter.vbproj.GenerateResource.cache
+C:\Users\ianka\source\repos\Schreibmaschichen\Schreibmaschichen\obj\Debug\Ard_Thermalprinter.vbproj.CoreCompileInputs.cache
+C:\Users\ianka\source\repos\Schreibmaschichen\Schreibmaschichen\obj\Debug\Ard_Thermalprinter.exe
+C:\Users\ianka\source\repos\Schreibmaschichen\Schreibmaschichen\obj\Debug\Ard_Thermalprinter.xml
+C:\Users\ianka\source\repos\Schreibmaschichen\Schreibmaschichen\obj\Debug\Ard_Thermalprinter.pdb
+C:\Users\ianka\source\repos\Schreibmaschichen\Schreibmaschichen\obj\Debug\Ard_Thermalprinter.vbproj.AssemblyReference.cache
