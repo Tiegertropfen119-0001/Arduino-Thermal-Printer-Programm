@@ -20,6 +20,7 @@
 - Sketch uses 8780 bytes (28% of Maximum 30720 bytes)
 - Dynamic memory use 593 bytes (28% of Maximum 2048 bytes)
 - The printer => APS EM205 58mm Thermal Printer
+- Power => 7v | 4.7 Amp
 
 
 
